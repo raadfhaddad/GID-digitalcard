@@ -1,0 +1,18 @@
+{
+  "verify": "YOUR_VERIFICATION_TOKEN",
+  "first_name": "Raad",
+  "last_name": "Haddad",
+  "title": "Penetration Tester",
+  "bio": "Focused on secure systems testing and practical defensive engineering.",
+  "location": "Duesseldorf, Germany",
+  "email": "test@email.email",
+  "website": "https://google.com",
+  "social": {
+    "github": "raadfhaddad",
+    "linkedin": "raadhaddad",
+    "x": "raadfhaddad"
+  },
+  "skills": ["Hacking", "Developing"],
+  "certifications": [],
+  "pgp_key": "https://example.com/keys/public-key.asc"
+}
