@@ -1,6 +1,7 @@
 {
   "verify": "Q902RBZDm-sT4gpLqY3qZ3dXnS2GNXUCvX1ruOmWjIE",
   "first_name": "Raad",
+  "delete":true,
   "last_name": "Haddad",
   "title": "Penetration Tester",
   "bio": "Focused on secure systems testing and practical defensive engineering.",
