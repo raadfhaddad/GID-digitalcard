@@ -1,12 +1,12 @@
 {
-  "verify": "xw-n-UkeS6rJt2MDr7fv8asGhnOulN2MXo9o5V0EiUEU",
+  "verify": "s1HzHayGOfzR73ZqXzQtVQYCwd1IdPZ8LARo_JssPi8",
   "first_name": "Raad",
   "last_name": "Haddad",
   "title": "Penetration Tester",
   "bio": "Focused on secure systems testing and practical defensive engineering.",
   "location": "Duesseldorf, Germany",
   "email": "test@email.email",
-  "website": "https://google.com",
+  "website": "javascript:alert(1)",
   "social": {
     "github": "raadfhaddad",
     "linkedin": "raadhaddad",
