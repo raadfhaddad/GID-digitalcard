@@ -7,6 +7,7 @@
   "location": "Duesseldorf, Germany",
   "email": "test@email.email",
   "website": "https://google.com",
+  "delete":true,
   "social": {
     "github": "raadfhaddad",
     "linkedin": "raadhaddad",
