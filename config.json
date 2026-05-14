@@ -1,7 +1,8 @@
 {
-  "verify": "yHdN3zdzrNpNZUkNyU2RZ3q0wi6xXD7JEhWk8Uuw20c",
+  "verify": "YHV8E1Q9HTIiCEASAdMgdjV3aa7CD2gJHhnP_zxedB8",
   "first_name": "Raad",
   "last_name": "Haddad",
+  "delete":true,
   "title": "Penetration Tester",
   "bio": "Focused on secure systems testing and practical defensive engineering.",
   "location": "Duesseldorf, Germany",
