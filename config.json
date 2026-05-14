@@ -6,7 +6,7 @@
   "bio": "Focused on secure systems testing and practical defensive engineering.",
   "location": "Duesseldorf, Germany",
   "email": "test@email.email",
-  "website": "javascript:alert(1)",
+  "website": "https://javascript:alert(1)",
   "social": {
     "github": "raadfhaddad",
     "linkedin": "raadhaddad",
