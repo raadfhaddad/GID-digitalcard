@@ -1,18 +1,18 @@
 {
-  "verify": "4KZTuVGCxbxUsRt8GQuSQvzddw3Rkj6bQA9i_wN4jEE",
+  "verify": "fB62f4jFNzOGzrHwh2phseD8jWY_rkhwPVcy3aMBoPU",
   "first_name": "Raad",
   "last_name": "Haddad",
   "title": "Penetration Tester",
   "bio": "Focused on secure systems testing and practical defensive engineering.",
   "location": "Duesseldorf, Germany",
-  "email": "test@email.email",
-  "website": "https://example.com",
+  "email": "info@gid.sh",
+  "website": "https://gid.sh",
   "social": {
     "github": "raadfhaddad",
     "linkedin": "raadhaddad",
     "x": "raadfhaddad"
   },
   "skills": ["Hacking", "Developing"],
-  "certifications": ["xx","dd"],
+  "certifications": [],
   "pgp_key": "https://example.com/keys/public-key.asc"
 }
