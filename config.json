@@ -13,5 +13,6 @@
     "x": "raadfhaddad"
   },
   "skills": ["Hacking", "Developing","AI"],
-  "certifications": ["CCSE", "ARTE", "CRTP"]
+  "certifications": ["CCSE", "ARTE", "CRTP"],
+  "pgp_key":"https://google.com/"
 }
